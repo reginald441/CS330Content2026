@@ -1,0 +1,10 @@
+.vs/
+**/.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.zip
+*.pdb
+*.exe
+*.obj
